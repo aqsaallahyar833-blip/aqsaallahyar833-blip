@@ -4,14 +4,6 @@ Frontend Developer | Responsive Web Design | HTML • CSS • JavaScript
 
 Email Me 👉 ✉️ aqsaallahyar833@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** uol study portal
-- 🌱 **I’m currently learning:** javascript
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** aqsaallahyar833@gmail.com
-- 😄 **Pronouns:** she/her
-- ⚡ **Fun fact:** I Love web development
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aqsaallahyar833-blip&theme=radical&no-frame=false&no-bg=true&margin-w=4)
